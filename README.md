@@ -8,4 +8,5 @@ Download the source code from the forked version of MDP_ProbLog: https://github.
 # Usage
 
 1) Create an empty file with extension ".pl" (for example, in Linux from command line: "touch dummy.pl")
-2) Execute: mdp-problog solve -m autonomous_car_V1.pl  dummy.pl
+2) Move to the folder with the file autonomous_car_V1.pl
+3) Run in command line: mdp-problog solve -m autonomous_car_V1.pl  dummy.pl
