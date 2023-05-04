@@ -1,5 +1,5 @@
 # CaDis_Workshop
-MDP-ProbLog program for the CaDis Workshop
+MDP-ProbLog program for the Workshop on Causal Discovery https://cadisworkshop.com.mx/
 
 # Installation
 
